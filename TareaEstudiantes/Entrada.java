@@ -3,7 +3,6 @@ package Corte2.TareaEstudiantes;
 import javax.swing.*;
 import java.io.*;
 
-//Profe tuve que serializar tambien la clase Estudiantes, no solo la de Gestion estudiantes ya que me generaba un error al correrlo
 public class Entrada {
     private GestionEstudiantes gestor;
 
